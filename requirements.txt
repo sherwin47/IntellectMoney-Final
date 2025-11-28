@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+passlib==1.7.4
+bcrypt==3.2.0
+python-jose[cryptography]
+python-dotenv
+google-generativeai
+requests
+gunicorn
+scikit-fuzzy
+pydantic
+scikit-learn
+pandas
+networkx
